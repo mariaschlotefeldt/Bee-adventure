@@ -1,6 +1,6 @@
 **EQUIPE:** Luana Shigeoka, Lucas Scheibe e Maria Schlotefeldt;
 
-**INSPIRAÇÃO:** O jogo que criamos foi inspirado no clássico **Flappy Bird**
+**INSPIRAÇÃO:** O jogo que criamos foi inspirado no clássico **Flappy Bird;**
 
 **MUDANÇAS:** Em nossa versão do jogo, realizamos algumas alterações significativas. A principal modificação foi a introdução de um novo personagem: enquanto o jogo original apresenta apenas um pássaro, nossa versão agora conta com uma abelha como personagem principal, além de um pássaro que atua como inimigo. Além disso, substituímos os elementos de tubo por flores, e as recompensas agora são representadas por gotas e potes de mel. O cenário foi transformado em um ambiente montanhoso. Essas mudanças também afetaram o objetivo e a jogabilidade do jogo, proporcionando uma experiência renovada e dinâmica.
 
